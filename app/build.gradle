@@ -50,6 +50,12 @@ dependencies {
     // Firebase for storage
     compile 'com.google.firebase:firebase-storage:10.0.1'
 
+    //Firebase for notification and messages
+    compile 'com.google.firebase:firebase-messaging:10.0.1'
+
+    //Firebase Remote Config
+    compile 'com.google.firebase:firebase-config:10.0.1'
+
     // FirebaseUI library for authentication
     compile 'com.firebaseui:firebase-ui-auth:1.0.1'
 
